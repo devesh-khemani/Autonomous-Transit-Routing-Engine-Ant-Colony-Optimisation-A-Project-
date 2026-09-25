@@ -1,4 +1,4 @@
-# Autonomous Transit Routing Engine — A* & Ant Colony Optimization
+# Autonomous Transit Routing Engine - A* & Ant Colony Optimization
 
 * **[View A* Transit Routing Engine Notebook](transit_routing.ipynb)**
 * **[View Ant Colony Optimization (ACO) Notebook](ACO.ipynb)**
