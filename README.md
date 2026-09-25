@@ -1,6 +1,7 @@
 # Autonomous Transit Routing Engine — A* & Ant Colony Optimization
 
-**[View Implementation & Benchmark Notebook](./ACO.ipynb)**
+* **[View A* Transit Routing Engine Notebook](transit_routing.ipynb)**
+* **[View Ant Colony Optimization (ACO) Notebook](ACO.ipynb)**
 
 An algorithmic study and empirical benchmark evaluating deterministic heuristic search against bio-inspired multi-agent optimization across dynamic transit graphs. 
 
