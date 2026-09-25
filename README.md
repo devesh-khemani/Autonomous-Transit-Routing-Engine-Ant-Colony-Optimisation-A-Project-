@@ -1,5 +1,7 @@
 # Autonomous Transit Routing Engine — A* & Ant Colony Optimization
 
+**[View Implementation & Benchmark Notebook](transit_routing.ipynb)**
+
 **Note on this repository:** This project was written in 2023–24 as a personal
 project, developed alongside independent research into swarm robotics from my EPQ.
 As an early project, the code prioritises getting the underlying algorithms working
